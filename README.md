@@ -1,4 +1,4 @@
-# Odin Recepies
+# Odin Recipes
 
-A simple project for getting some practice writing html pages.
-Done following the course [Odin Project](https://theodinproject.com)
+A simple project for getting some practice writing html pages.  
+Done following the course ["The Odin Project"](https://theodinproject.com)
